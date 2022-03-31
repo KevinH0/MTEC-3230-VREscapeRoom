@@ -14,10 +14,6 @@ TagManager:
   - UI
   - 
   - 
-  - Grabbable
-  - Hands
-  - Teleporter
-  - NoHandCollide
   - 
   - 
   - 
@@ -38,6 +34,10 @@ TagManager:
   - 
   - 
   - 
+  - OutsidePortal
+  - InsidePortal
+  - Mask
+  - Overrides
   m_SortingLayers:
   - name: Default
     uniqueID: 0
