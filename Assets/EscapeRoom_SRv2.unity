@@ -37553,7 +37553,6 @@ GameObject:
   - component: {fileID: 1837324664752574602}
   - component: {fileID: 1837324664752574607}
   - component: {fileID: 3047369672305248463}
-  - component: {fileID: 1837324664752574604}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -37561,19 +37560,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!135 &1837324664752574604
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1837324664752574603}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.26
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &1837324664752574607
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43946,8 +43932,6 @@ GameObject:
   - component: {fileID: 6921416577908803905}
   - component: {fileID: 6921416577908803970}
   - component: {fileID: 6921416577908803969}
-  - component: {fileID: 6921416577908803968}
-  - component: {fileID: 6921416577908803967}
   - component: {fileID: 6921416577908803966}
   m_Layer: 0
   m_Name: Door
@@ -43969,36 +43953,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.8737636, y: 1.9570205, z: 0.10485755}
   m_Center: {x: -0.005063065, y: 0.03517912, z: 0.008673459}
---- !u!114 &6921416577908803967
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6921416577908803965}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8d6765015c7496d41abb8873e08b5312, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  CloseCaptioned: 0
-  Clips:
-  - {fileID: 8300000, guid: 5a4cd35a425a3364aadb3fa808a3f3d9, type: 3}
-  - {fileID: 8300000, guid: a7cd600e47c255946a3597a75b184727, type: 3}
-  - {fileID: 8300000, guid: 4ce3900ffcaff544eaa834c6ee9c5bb5, type: 3}
---- !u!114 &6921416577908803968
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6921416577908803965}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5e36a4b1a548e444ba0aa0963b3e1e43, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Renderer: {fileID: 1800614907}
 --- !u!114 &6921416577908803969
 MonoBehaviour:
   m_ObjectHideFlags: 0

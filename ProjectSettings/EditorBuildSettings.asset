@@ -5,15 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
-  - enabled: 0
-    path: Assets/LyceumVR/ARPortals_URP/Scenes/AutoConfigurateProject.unity
-    guid: f300f1c3d21d4a84d99339bf61376380
   - enabled: 1
-    path: Assets/LyceumVR/ARPortals_URP/Scenes/Demo.unity
-    guid: d2f640079f125b340acabceb8eafc91d
+    path: Assets/StartMenu.unity
+    guid: 9c3b9ed6ac6c77f4296c94545ad0423a
+  - enabled: 1
+    path: Assets/EscapeRoom_SRv2.unity
+    guid: 0a9dd85eea0732240b5f071faa6f8a24
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 398d945149746a94899cafbfeddf8c9f,
       type: 2}
