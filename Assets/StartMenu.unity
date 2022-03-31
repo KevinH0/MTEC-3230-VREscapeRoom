@@ -16549,8 +16549,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startButton: {fileID: 1952027515}
-  startMenu: {fileID: 0}
-  optionsMenu: {fileID: 0}
+  startMenu: {fileID: 1428062410}
+  optionsMenu: {fileID: 448327444}
 --- !u!114 &2128121436
 MonoBehaviour:
   m_ObjectHideFlags: 0
