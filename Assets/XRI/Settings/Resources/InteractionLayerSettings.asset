@@ -21,7 +21,7 @@ MonoBehaviour:
   - UI
   - 
   - 
-  - Grabbable
+  - Teleporter
   - Hands
   - Teleporter
   - 
@@ -44,4 +44,4 @@ MonoBehaviour:
   - 
   - 
   - 
-  - Teleport
+  - Overrides
