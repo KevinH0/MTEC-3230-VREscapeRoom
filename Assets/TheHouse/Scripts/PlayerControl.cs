@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
-//using UnityEngine.VR;
+
 
 public class PlayerControl : MonoBehaviour
 {
