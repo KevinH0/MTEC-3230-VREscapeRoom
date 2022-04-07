@@ -24,8 +24,10 @@ using UnityEngine.XR.Interaction.Toolkit;
         Collider col;
 
         void Start() {
-            //thisGrab = GetComponent<Grabbable>();
-            //thisGrab.CanBeSnappedToSnapZone = false;
+        //thisGrab = GetComponent<Grabbable>();
+        //thisGrab.CanBeSnappedToSnapZone = false;
+
+        thisGrab = GetComponent<XRGrabInteractable>(); 
             rb = GetComponent<Rigidbody>();
             col = GetComponent<Collider>();
 
@@ -76,10 +78,11 @@ using UnityEngine.XR.Interaction.Toolkit;
             {
                 // FIXME
                 //thisGrab.DropItem(false, false);
-                
-                SelectExitEventArgs arg0 = new SelectExitEventArgs();
-                //arg0.
-                thisGrab.selectExited.Invoke(arg0);
+
+                // hhttp://snapandplug.com/xr-input-toolkit-2020-faq/#FAQ:-Can-I-force-a-hand/controller-to-drop-held-items?
+                //thisGrab.allowSelect = false; 
+                //thisGrab.Detach(); 
+
             }
 
             lastAngularVelocity = rb.angularVelocity * -1;
