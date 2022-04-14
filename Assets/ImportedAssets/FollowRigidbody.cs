@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace BNG {
     public class FollowRigidbody : MonoBehaviour {
 
         public Transform FollowTransform;
@@ -16,5 +15,5 @@ namespace BNG {
             rigid.MovePosition(FollowTransform.transform.position);
         }
     }
-}
+
 
