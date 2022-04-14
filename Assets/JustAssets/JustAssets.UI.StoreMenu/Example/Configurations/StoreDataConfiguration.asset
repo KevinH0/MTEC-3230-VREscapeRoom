@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97db1513fcd9ddf4d876afb6a7920307, type: 3}
+  m_Name: StoreDataConfiguration
+  m_EditorClassIdentifier: 
+  _storeData:
+  - StoreId:
+      _value: 5
+    Ratio: 50
+    Stock:
+    - ItemId:
+        _value: 1
+      Amount: 10
+      SoldAmount: 0
+    - ItemId:
+        _value: 2
+      Amount: 10
+      SoldAmount: 0
+    - ItemId:
+        _value: 3
+      Amount: -1
+      SoldAmount: 0
+    - ItemId:
+        _value: 4
+      Amount: -1
+      SoldAmount: 0
+    - ItemId:
+        _value: 5
+      Amount: -1
+      SoldAmount: 0
+    - ItemId:
+        _value: 6
+      Amount: -1
+      SoldAmount: 0
+    - ItemId:
+        _value: 7
+      Amount: -1
+      SoldAmount: 0
+    - ItemId:
+        _value: 8
+      Amount: -1
+      SoldAmount: 0
+    - ItemId:
+        _value: 9
+      Amount: -1
+      SoldAmount: 0
+    - ItemId:
+        _value: 10
+      Amount: -1
+      SoldAmount: 0
+    - ItemId:
+        _value: 11
+      Amount: 1
+      SoldAmount: 1

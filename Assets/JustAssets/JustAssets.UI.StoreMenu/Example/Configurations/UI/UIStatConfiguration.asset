@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 622d772e5a00fdb45b40793eaa6569b0, type: 3}
+  m_Name: UIStatConfiguration
+  m_EditorClassIdentifier: 
+  Mapping:
+  - Sprite: {fileID: 21300000, guid: 49b94c3e6c55c934b926a1d6dc4e71dd, type: 3}
+    Stat:
+      _value: 3
+  - Sprite: {fileID: 21300000, guid: 8e3ae67d83622884e9daa90b09b11879, type: 3}
+    Stat:
+      _value: 4
+  - Sprite: {fileID: 21300000, guid: b075baa746aa4cc4db16820832020e71, type: 3}
+    Stat:
+      _value: 5
+  - Sprite: {fileID: 21300000, guid: 643d24b4e93787c47a261c881fa267ca, type: 3}
+    Stat:
+      _value: 6
+  - Sprite: {fileID: 21300000, guid: 2d4bcbb105955864ebf4efe5dcf8ee17, type: 3}
+    Stat:
+      _value: 7
+  - Sprite: {fileID: 21300000, guid: 8c83a98b6e933334095d86e7d1e1a027, type: 3}
+    Stat:
+      _value: 8

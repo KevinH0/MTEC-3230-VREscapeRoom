@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SelectIconFrameToggle
+  m_Controller: {fileID: 9100000, guid: e841a3011d7b7a04f80726fc14af3a89, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -2649806966679197323, guid: e841a3011d7b7a04f80726fc14af3a89,
+      type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bcf82a36c41d88344954f7fa3dffc503, type: 2}
+  - m_OriginalClip: {fileID: 2785647994555038030, guid: e841a3011d7b7a04f80726fc14af3a89,
+      type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2bd53b169050e124989abafd7887d19c, type: 2}
+  - m_OriginalClip: {fileID: -2658739564284967555, guid: e841a3011d7b7a04f80726fc14af3a89,
+      type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3e96f514861ee094385061f874bb6038, type: 2}
+  - m_OriginalClip: {fileID: -7170382850950196668, guid: e841a3011d7b7a04f80726fc14af3a89,
+      type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dd823d6005484524dad22def2b7b972d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 16836c69b76ff5d4da16e09bf9ba01eb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a6102fcd86f2a704d948d8c02413a9e8, type: 2}

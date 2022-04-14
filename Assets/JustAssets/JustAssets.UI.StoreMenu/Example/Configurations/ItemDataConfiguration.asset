@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b955dfa8ecb15249b7b59d829bc6cbf, type: 3}
+  m_Name: ItemDataConfiguration
+  m_EditorClassIdentifier: 
+  _data:
+  - Id:
+      _value: 1
+    Name: Potion
+    Cost: 50
+    IsEquipment: 0
+    Category: 2
+    EquipmentStats: []
+    EquipmentType:
+      _value: 0
+  - Id:
+      _value: 2
+    Name: MagicPotion
+    Cost: 200
+    IsEquipment: 0
+    Category: 2
+    EquipmentStats: []
+    EquipmentType:
+      _value: 0
+  - Id:
+      _value: 3
+    Name: Dagger
+    Cost: 100
+    IsEquipment: 1
+    Category: 1
+    EquipmentStats:
+    - Stat:
+        _value: 6
+      Value: 10
+    EquipmentType:
+      _value: 1
+  - Id:
+      _value: 4
+    Name: DoubleDagger
+    Cost: 300
+    IsEquipment: 1
+    Category: 1
+    EquipmentStats:
+    - Stat:
+        _value: 6
+      Value: 16
+    EquipmentType:
+      _value: 1
+  - Id:
+      _value: 5
+    Name: HardenedDoubleDagger
+    Cost: 500
+    IsEquipment: 1
+    Category: 1
+    EquipmentStats:
+    - Stat:
+        _value: 6
+      Value: 18
+    EquipmentType:
+      _value: 1
+  - Id:
+      _value: 6
+    Name: Rod
+    Cost: 100
+    IsEquipment: 1
+    Category: 1
+    EquipmentStats:
+    - Stat:
+        _value: 6
+      Value: 10
+    EquipmentType:
+      _value: 2
+  - Id:
+      _value: 7
+    Name: Robe
+    Cost: 200
+    IsEquipment: 1
+    Category: 1
+    EquipmentStats:
+    - Stat:
+        _value: 8
+      Value: 5
+    EquipmentType:
+      _value: 128
+  - Id:
+      _value: 8
+    Name: Shirt
+    Cost: 200
+    IsEquipment: 1
+    Category: 1
+    EquipmentStats:
+    - Stat:
+        _value: 8
+      Value: 3
+    - Stat:
+        _value: 7
+      Value: 3
+    EquipmentType:
+      _value: 448
+  - Id:
+      _value: 9
+    Name: SimpleSword
+    Cost: 100
+    IsEquipment: 1
+    Category: 1
+    EquipmentStats:
+    - Stat:
+        _value: 6
+      Value: 8
+    EquipmentType:
+      _value: 4
+  - Id:
+      _value: 10
+    Name: Sword
+    Cost: 300
+    IsEquipment: 1
+    Category: 1
+    EquipmentStats:
+    - Stat:
+        _value: 6
+      Value: 12
+    EquipmentType:
+      _value: 4
+  - Id:
+      _value: 11
+    Name: Ultima Weapon
+    Cost: 50000
+    IsEquipment: 1
+    Category: 1
+    EquipmentStats:
+    - Stat:
+        _value: 6
+      Value: 100
+    - Stat:
+        _value: 5
+      Value: 30
+    EquipmentType:
+      _value: 4

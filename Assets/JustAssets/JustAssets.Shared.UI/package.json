@@ -1,0 +1,9 @@
+{
+  "name": "de.justassets.shared.ui",
+  "displayName": "JustAssets.Shared.UI",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "keywords": [],
+  "category": "Tools",
+  "dependencies": {}
+}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: OptionsButton
+  m_Controller: {fileID: 9100000, guid: e841a3011d7b7a04f80726fc14af3a89, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -2649806966679197323, guid: e841a3011d7b7a04f80726fc14af3a89,
+      type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e4cb765083d6c004694160e0ca19a6cc, type: 2}
+  - m_OriginalClip: {fileID: -7170382850950196668, guid: e841a3011d7b7a04f80726fc14af3a89,
+      type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d4006e58f3d45374287beca433c5ab26, type: 2}
+  - m_OriginalClip: {fileID: -2658739564284967555, guid: e841a3011d7b7a04f80726fc14af3a89,
+      type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 9bb24c0930451c34ea9ea0d248e10c6a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 16836c69b76ff5d4da16e09bf9ba01eb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d4006e58f3d45374287beca433c5ab26, type: 2}
+  - m_OriginalClip: {fileID: 2785647994555038030, guid: e841a3011d7b7a04f80726fc14af3a89,
+      type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4d3886d366b097d44ada57da06270e5d, type: 2}

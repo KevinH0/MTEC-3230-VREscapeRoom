@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b6ab3ea5a5e8c049a24a00d0001cc69, type: 3}
+  m_Name: UIStoreMenuColorPaletteBrown
+  m_EditorClassIdentifier: 
+  _colors:
+  - Color: {r: 0.22700001, g: 0.19862501, b: 0.19862501, a: 0.50980395}
+    Name:
+      _value: BorderShade
+  - Color: {r: 0.3207547, g: 0.20425418, b: 0.07111071, a: 0.9843137}
+    Name:
+      _value: BrightBackground
+  - Color: {r: 0.32156864, g: 0.32156864, b: 0.32156864, a: 1}
+    Name:
+      _value: BrightBackground_Disabled
+  - Color: {r: 1, g: 0.9720667, b: 0.581, a: 1}
+    Name:
+      _value: BrightBackground_Selected
+  - Color: {r: 0.69803923, g: 0.6431373, b: 0.5803922, a: 0.9843137}
+    Name:
+      _value: BrightBorder
+  - Color: {r: 0.69803923, g: 0.69803923, b: 0.69803923, a: 1}
+    Name:
+      _value: BrightBorder_Disabled
+  - Color: {r: 1, g: 0.97647065, b: 0.81568635, a: 1}
+    Name:
+      _value: BrightBorder_Selected
+  - Color: {r: 0.3803922, g: 0.28627452, b: 0.20784315, a: 1}
+    Name:
+      _value: ButtonBackground
+  - Color: {r: 0.7607843, g: 0.60271025, b: 0.50211763, a: 0.53333336}
+    Name:
+      _value: ButtonGradient
+  - Color: {r: 0.7607843, g: 0.7607843, b: 0.7607843, a: 1}
+    Name:
+      _value: ButtonGradient_Disabled
+  - Color: {r: 0.3803922, g: 0.5137255, b: 0.6039216, a: 1}
+    Name:
+      _value: ConfirmColor
+  - Color: {r: 0.5242745, g: 0.5518905, b: 0.5686275, a: 1}
+    Name:
+      _value: ConfirmColor_Disabled
+  - Color: {r: 0.5316104, g: 0.71794814, b: 0.84400004, a: 1}
+    Name:
+      _value: ConfirmColor_Highlighted
+  - Color: {r: 0.3254902, g: 0.36078432, b: 0.3803922, a: 1}
+    Name:
+      _value: ConfirmShade
+  - Color: {r: 0.3640353, g: 0.37455043, b: 0.38039216, a: 1}
+    Name:
+      _value: ConfirmShade_Disabled
+  - Color: {r: 0.53992784, g: 0.5984742, b: 0.631, a: 1}
+    Name:
+      _value: ConfirmShade_Highlighted
+  - Color: {r: 0.20000002, g: 0.16470589, b: 0.13725491, a: 1}
+    Name:
+      _value: DarkBackground
+  - Color: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    Name:
+      _value: DarkBackground_Disabled
+  - Color: {r: 0.6666667, g: 0.6666667, b: 0.6666667, a: 1}
+    Name:
+      _value: DecineShade_Disabled
+  - Color: {r: 0.5294118, g: 0.31764707, b: 0.32156864, a: 1}
+    Name:
+      _value: DeclineColor
+  - Color: {r: 0.78699994, g: 0.45173797, b: 0.4579465, a: 1}
+    Name:
+      _value: DeclineColor_Highlighted
+  - Color: {r: 0.49803925, g: 0.3019608, b: 0.30980393, a: 1}
+    Name:
+      _value: DeclineShade
+  - Color: {r: 0.667, g: 0.40440157, b: 0.41490552, a: 1}
+    Name:
+      _value: DeclineShade_Highlighted
+  - Color: {r: 0.80784315, g: 0.5016745, b: 0.49278432, a: 1}
+    Name:
+      _value: DeteriorationText
+  - Color: {r: 0.4705883, g: 0.4, b: 0.3176471, a: 1}
+    Name:
+      _value: DialogBorder
+  - Color: {r: 0.23529412, g: 0.19607843, b: 0.17254902, a: 1}
+    Name:
+      _value: DialogDarkBackground
+  - Color: {r: 0.9607843, g: 0.93333334, b: 0.89411765, a: 1}
+    Name:
+      _value: IconColor
+  - Color: {r: 0.827451, g: 0.64179766, b: 0.32270586, a: 1}
+    Name:
+      _value: IconColorStrong
+  - Color: {r: 0.51237106, g: 0.80784315, b: 0.48712942, a: 1}
+    Name:
+      _value: ImprovementText
+  - Color: {r: 0.25490198, g: 0.22352943, b: 0.21568629, a: 1}
+    Name:
+      _value: LightBackground
+  - Color: {r: 0.25490198, g: 0.25490198, b: 0.25490198, a: 1}
+    Name:
+      _value: LightBackground_Disabled
+  - Color: {r: 0.383, g: 0.3358615, b: 0.3240769, a: 1}
+    Name:
+      _value: LightBackground_Highlighted
+  - Color: {r: 0.80784315, g: 0.80784315, b: 0.80784315, a: 1}
+    Name:
+      _value: LightBorder
+  - Color: {r: 0.80784315, g: 0.80784315, b: 0.80784315, a: 1}
+    Name:
+      _value: LightBorder_Disabled
+  - Color: {r: 0.348, g: 0.064032, b: 0.06985692, a: 1}
+    Name:
+      _value: NegativeColor
+  - Color: {r: 0.80784315, g: 0.7607843, b: 0.73333335, a: 1}
+    Name:
+      _value: NeutralText
+  - Color: {r: 0.8078432, g: 0.7607844, b: 0.73333335, a: 1}
+    Name:
+      _value: NeutralTextColor
+  - Color: {r: 0.071817994, g: 0.29799998, b: 0.08271832, a: 1}
+    Name:
+      _value: PositiveColor
+  - Color: {r: 0.319, g: 0.23505263, b: 0.23505263, a: 1}
+    Name:
+      _value: Scrollbar
+  - Color: {r: 0.3529412, g: 0.2901961, b: 0.21960786, a: 1}
+    Name:
+      _value: SeperatorLine
+  - Color: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    Name:
+      _value: SeperatorLine_Disabled
+  - Color: {r: 0.574, g: 0.48920456, b: 0.3848409, a: 1}
+    Name:
+      _value: SeperatorLine_Pressed
+  - Color: {r: 0.7725491, g: 0.57254905, b: 0.29411766, a: 1}
+    Name:
+      _value: SeperatorLine_Selected
+  - Color: {r: 0.7803922, g: 0.6509804, b: 0.5803922, a: 1}
+    Name:
+      _value: SliderHandle
+  - Color: {r: 1, g: 1, b: 1, a: 1}
+    Name:
+      _value: TextOnBright
+  - Color: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 1}
+    Name:
+      _value: TextOnBright_Disabled
+  - Color: {r: 0.624, g: 0.47840002, b: 0.2964, a: 1}
+    Name:
+      _value: TextOnDark
+  - Color: {r: 0.7294118, g: 0.627451, b: 0.4745098, a: 1}
+    Name:
+      _value: VeryBrightBackground
+  - Color: {r: 0.1764706, g: 0.13725491, b: 0.13725491, a: 1}
+    Name:
+      _value: VeryDarkBackground
+  - Color: {r: 0.15686275, g: 0.15686275, b: 0.15686275, a: 1}
+    Name:
+      _value: VeryDarkBackground_Disabled
+  - Color: {r: 0.15686275, g: 0.1137255, b: 0.10588236, a: 1}
+    Name:
+      _value: VeryDarkBackground_Highlighted
+  - Color: {r: 0.1764706, g: 0.1764706, b: 0.1764706, a: 1}
+    Name:
+      _value: ButtonShine_Disabled

@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7e0dc6238f521c428dda37954226f99, type: 3}
+  m_Name: LocalizationData
+  m_EditorClassIdentifier: 
+  Data:
+  - Key: Item_Potion
+    Translation: Health Potion
+  - Key: Item_MagicPotion
+    Translation: Mana Potion
+  - Key: Item_Dagger
+    Translation: Dagger
+  - Key: ItemFlavorText_Dagger
+    Translation: A simple dagger.
+  - Key: ItemFlavorText_Potion
+    Translation: Heals some HP.
+  - Key: ItemFlavorText_MagicPotion
+    Translation: Heals some MP.
+  - Key: Store_Header_Text
+    Translation: Information
+  - Key: Store_Buy
+    Translation: Buy
+  - Key: Store_Information_Header
+    Translation: Information
+  - Key: Store_Money
+    Translation: Lira
+  - Key: Store_Sell
+    Translation: Sell
+  - Key: Store_Coins
+    Translation: Lira
+  - Key: Store_Price
+    Translation: Price
+  - Key: Store_MoneyLeft
+    Translation: Remaining
+  - Key: Store_ConfirmPurchaseCaption
+    Translation: Do you want to continue the purchase?
+  - Key: Store_BuyItem
+    Translation: Buy
+  - Key: Store_Stat_Comparison
+    Translation: Statchange
+  - Key: Store_SellItem
+    Translation: Sell
+  - Key: 
+    Translation: 
+  - Key: Store_ConfirmBuyItem
+    Translation: Do you want to buy this item?
+  - Key: Store_ConfirmSellItem
+    Translation: Do you want to sell this item?
+  - Key: Item_DoubleDagger
+    Translation: Double Dagger
+  - Key: Item_HardenedDoubleDagger
+    Translation: Hardened Dagger
+  - Key: ItemFlavorText_DoubleDagger
+    Translation: A dagger with two blades attached to each other rectangularly.
+  - Key: ItemFlavorText_HardenedDoubleDagger
+    Translation: A dagger with two blades made of hardened steal making it more durable
+      and stronger.
+  - Key: Item_Rod
+    Translation: Rod
+  - Key: ItemFlavorText_Rod
+    Translation: A simple magical rod.
+  - Key: Item_Robe
+    Translation: Robe
+  - Key: Item_Shirt
+    Translation: Shirt
+  - Key: ItemFlavorText_Robe
+    Translation: A simple robe improving your magical defence.
+  - Key: ItemFlavorText_Shirt
+    Translation: A simple shirt which is suited for everyone.
+  - Key: Store_Equipped
+    Translation: Equipped
+  - Key: Item_SimpleSword
+    Translation: Simple Sword
+  - Key: Item_Sword
+    Translation: Sword
+  - Key: ItemFlavorText_SimpleSword
+    Translation: A simple sword.
+  - Key: ItemFlavorText_Sword
+    Translation: A basic sword, not to bad.
+  - Key: Store_EquipDialogCaption
+    Translation: Select whom to equip the item to
+  - Key: Store_EquipDialogButton
+    Translation: Equip
+  - Key: Store_DoNotEquipDialogButton
+    Translation: Do not equip
+  - Key: Store_EquipNoMoreItems
+    Translation: No more items available to equip!
+  - Key: Item_Ultima Weapon
+    Translation: Ultima Weapon
+  - Key: ItemFlavorText_Ultima Weapon
+    Translation: A super rare extremly powerfull weapon forged in the hellfires of
+      Dormonia.
+  - Key: Store_Sold
+    Translation: Sold
+  - Key: Store_RemainingMoney
+    Translation: Remaining
+  - Key: Store_SummedUpMoney
+    Translation: Total

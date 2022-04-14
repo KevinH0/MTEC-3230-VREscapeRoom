@@ -1,0 +1,20 @@
+{
+    "name": "JustAssets.UI.StoreMenu.Editor",
+    "rootNamespace": "JustAssets.UI.StoreMenu",
+    "references": [
+        "JustAssets.Shared.UI",
+        "JustAssets.UI.StoreMenu",
+        "JustAssets.Shared.Providers"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
